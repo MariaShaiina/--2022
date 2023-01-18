@@ -1,6 +1,7 @@
-# Высокопроизводительные Вычисления-2022
+# Высокопроизводительные вычисления-2022
 ## 6132 Shaina Maria
-#### Lab 1. MatMul
-#### Lab 2. VectorSum
-#### Lab 3. PI calc
-#### Lab 4. Substrings Search
+---------------------------------------------
+[Х]Lab 1. MatMul
+[Х]Lab 2. VectorSum
+[Х]Lab 3. PI calc
+[Х]Lab 4. Substrings Search
