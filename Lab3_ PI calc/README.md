@@ -1,6 +1,3 @@
-# Header
-## Header 2
-### Header 3
-#### Header 4
-разделительная черта 
+# Calculation of pi value on GPU 
+## Выполнила Шаина Мария 6132-010402D 
 ______
