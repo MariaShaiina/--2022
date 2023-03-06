@@ -11,4 +11,4 @@
 
 Для измерения ускорения было произведено вычисление суммы элементов векторов размеров 1000, 10000, 50000, 100000, 500000 и 1000000. Результаты вычисления ускорения представлены на графике:
 
-![pic](https://github.com/greeger/greeger/blob/master/pictures/vectorSum_speedup.png)
+![pic](https://github.com/MariaShaiina/hpc-2022/blob/8c02926d1a514ed57048ccb3f9548cd162791dd0/Lab2_VectorSum/img.png)
